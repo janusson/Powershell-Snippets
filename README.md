@@ -1,2 +1,3 @@
-# Powershell-Snippets
-Short, simple, Powershell problem solvers.
+# PowerShell-Snippets
+https://github.com/janusson/Powershell-Snippets.git
+Short, simple, PowerShell problem solvers.
