@@ -1,2 +1,2 @@
-# Python-Snippets
-Short, simple, Python problem solvers.
+# Powershell-Snippets
+Short, simple, Powershell problem solvers.
